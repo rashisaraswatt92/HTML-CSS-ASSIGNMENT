@@ -1,6 +1,6 @@
 # Assignment 05 — GitHub repository link
 
-Repository URL: **ADD YOUR OWN PUBLIC GITHUB REPOSITORY LINK HERE**
+Repository URL: **https://github.com/rashisaraswatt92/HTML-CSS-ASSIGNMENT**
 
 Before submitting:
 - [ ] The repository is public (if your teacher requires public access).

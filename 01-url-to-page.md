@@ -1,0 +1,3 @@
+# Assignment 01 — What happens when you enter a URL?
+
+When I type a URL into a browser and press Enter, the browser first checks whether the address is valid and whether it has useful cached information. It resolves the domain name to an IP address using DNS, establishes a connection to the server (usually using TCP and TLS for HTTPS), and sends an HTTP request. The server processes the request and returns a response containing HTML, CSS, JavaScript, images, or other resources. The browser parses the HTML into the DOM, downloads linked resources, applies CSS, runs JavaScript, and lays out and paints the page on the screen. The browser may continue loading resources and updating the page after the first visible content appears.
